@@ -2,4 +2,4 @@
 lightweight MC client build
 
 
-[![spotify-github-profile](https://ci.appveyor.com/project/ORelio/minecraft-console-client/build/artifacts)](https://ci.appveyor.com/project/ORelio/minecraft-console-client/build/artifacts)
+[![Latest Client Build](https://ci.appveyor.com/project/ORelio/minecraft-console-client/build/artifacts)](https://raw.githubusercontent.com/MinecraftForge/MinecraftForge/1.18.x/docs/assets/Forge_logo.svg)
