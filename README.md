@@ -6,5 +6,8 @@ A Lightweight Minecraft Server Client That Uses Little To None CPU and GPU usage
 
 
 
-[![VirusTotal Scan]
-[(https://www.virustotal.com/gui/file/9d6927aefb9a1513e8a9750d5e66d59ebc0d4e4409779a96dcee451bee49bd70)]
+# VirusTotal Scan
+**Click Here For Scan** 
+
+
+https://www.virustotal.com/gui/file/9d6927aefb9a1513e8a9750d5e66d59ebc0d4e4409779a96dcee451bee49bd70
